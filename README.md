@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **My learning journey.**
 
-- 🌱 I’m currently learning **Vue, Bootstrap, PHP, MySQL**
+- 🌱 I’m currently learning **React, Bootstrap, PHP, MySQL**
 
 - 👯 I’m looking to collaborate on **Front-end projects**
 
@@ -24,15 +24,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="" target="_blank">
+<a href="mailto:axel.moncayo.dev@gmail.com" target="_blank">
   <img align="center" alt="Axel Moncayo Gmail" width="100px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="" target="_blank">
+<a href="https://github.com/AxelMoncayoM" target="_blank">
   <img align="center" alt="Axel Moncayo Github" width="100px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="" target="_blank">
+<a href="https://www.linkedin.com/in/axel-moncayo/" target="_blank">
   <img align="center" alt="Axel Moncayo Linkedin" width="116px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </p>
@@ -54,6 +54,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AxceleratorR2&theme=monokai&hide_border=true&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat" alt="github stats">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AxceleratorR2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AxelMoncayoM&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
