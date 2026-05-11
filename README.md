@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **My learning journey.**
 
-- 🌱 I’m currently learning **React, Tailwind CSS, PHP, MySQL**
+- 🌱 I’m currently learning **React, Tailwind CSS**
 
 - 👯 I’m looking to collaborate on **Front-end projects**
 
